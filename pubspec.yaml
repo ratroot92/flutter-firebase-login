@@ -1,5 +1,11 @@
-name: login
-description: A new Flutter project.
+name: 1783BSCS
+description: Fluuter Login BSCS 8 .
+
+
+
+environment:
+  sdk: '>=2.10.0 <3.0.0' 
+
 
 dependencies:
   flutter:
